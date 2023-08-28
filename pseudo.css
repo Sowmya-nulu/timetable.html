@@ -1,0 +1,12 @@
+:hover nav a{
+    color: brown;
+}
+:active nav a{
+    background-color: rgb(156, 24, 186);
+}
+:hover h2{
+    background-color: rgb(104, 190, 200);
+}
+:active h2{
+    text-decoration: underline color(srgb rgb(91, 12, 12) green blue);
+}

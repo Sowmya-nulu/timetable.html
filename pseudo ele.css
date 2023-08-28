@@ -1,0 +1,45 @@
+nav a:hover{
+    color: black;
+}
+.col1:active{
+    background-color: rgb(125, 241, 86);
+}
+.col2:active{
+    background-color: rgb(172, 22, 172);
+}
+.col3:active{
+    background-color: rgb(179, 19, 125);
+}
+.col4:active{
+    background-color: rgb(156, 156, 245);
+}
+nav a{
+    color: rgb(255, 6, 6);
+}
+div a:visited{
+    font-style: italic;
+}
+h2:hover{
+    background-color:lightslategrey
+}
+h2:active{
+    background-color: brown;
+}
+div a:visited{
+    font-style: italic;
+}
+h2:hover{
+    background-color: aquamarine;
+}
+h2:active{
+    text-decoration: underline;
+}
+.links a:last-child{
+    color:cornflowerblue;
+}
+nav li:nth-child(odd){
+    background-color: rgb(220, 176, 118);
+}
+div p:nth-child(3){
+    color:hwb(0 0% 0%);
+}
